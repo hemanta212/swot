@@ -286,7 +286,6 @@ estudiantes.edu.ec
 estudiantesunap.cl
 etap.edu.pt
 etec.sp.gov.br
-etml-es.ch
 etu.edu.tr
 etu.u-pec.fr
 etud.u-picardie.fr
@@ -1306,3 +1305,19 @@ mylife.mku.ac.ke
 unipacifico.edu.co
 univassouras.edu.br
 student.kirkwood.edu
+my.tccd.edu
+fit.edu.ph
+utfv.edu.mx
+office.gtec.ac.kr
+st.dima.ac.kr
+otc.edu
+alabama.edu
+np.edu
+imail.sunway.edu.my
+kiu.kr
+aluno.multivix.edu.br
+o365.skku.edu
+bcsdschools.net
+smail.kongju.ac.kr
+yu.ac.kr
+henricostudents.org
